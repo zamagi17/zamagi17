@@ -38,7 +38,7 @@ Fullstack Software Engineer yang berfokus pada sistem backend perbankan, automas
 ### Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=zamagi17&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=zamagi17&show_icons=true&hide_rank=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zamagi17&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
 </p>
 
