@@ -1,103 +1,57 @@
-<h1 align="center">Hi 👋, I'm Zaky</h1>
-<h3 align="center">Fullstack Developer | Core Banking & AI-Powered Web Applications</h3>
+# Muhammad Zaky
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zamagi17&label=Profile%20views&color=0e75b6&style=flat" alt="zamagi17" />
-</p>
+Fullstack Software Engineer yang berfokus pada sistem backend perbankan, automasi AI, dan aplikasi web modern.
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=zamagi17&theme=onedark&no-frame=true&margin-w=4" alt="zamagi17 trophies" />
-  </a>
+---
+
+### What I Do
+
+- 💼 **Primary Work**: Memelihara & mengembangkan Core Banking System di [ebpr.co.id](https://ebpr.co.id) (Java / Spring Framework / PostgreSQL).
+- 🚀 **Projects**:
+  - [ZonaKas](https://zonakas.com) — Aplikasi pencatatan keuangan personal terintegrasi AI WhatsApp bot (Spring Boot & React).
+  - [ZonaTrade](https://trade.zonakas.com) — Bot trading otomatis terintegrasi model AI dan Binance API.
+  - [Roti Buaya JKT](https://rotibuayajkt.web.id) — Web landing page bisnis lokal berbasis Astro & React.
+- 📝 **Writing**: Berbagi tulisan teknis dan keuangan di [zonakas.com/edukasi](https://zonakas.com/edukasi/).
+- 🛠️ **Main Stack**: Java, Spring Boot, PostgreSQL (complex queries & functions), React, Astro, Docker.
+- 📬 **Contact**: `muhammadzaky00@gmail.com`
+
+---
+
+### Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zamagi17/zamagi17/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zamagi17/zamagi17/output/github-contribution-grid-snake.svg" />
+  <img alt="Pacman eating contributions" src="https://raw.githubusercontent.com/zamagi17/zamagi17/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
+
+---
+
+### Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,react,astro,js,ts,docker,git,nodejs,tailwind,bootstrap&theme=dark" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### Stats
 
-- 🔭 I’m currently working on **Core Banking Maintenance** ([ebpr.co.id](https://ebpr.co.id)) & **ZonaKas** ([zonakas.com](https://zonakas.com))
-- 🌱 I’m currently learning **Advanced Microservices, AI Agent Workflows & System Optimization**
-- 📝 I regularly write articles on [zonakas.com/edukasi](https://zonakas.com/edukasi/)
-- 💬 Ask me about **Spring Boot, Spring Framework, React, Astro, PostgreSQL Queries/Functions, & Docker**
-- 📫 How to reach me: **muhammadzaky00@gmail.com**
-- ⚡ Fun fact: **Turning complex financial logic & AI insights into real-world automated solutions.**
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=zamagi17&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zamagi17&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+</p>
 
 ---
-
-### 🌐 Connect with Me
 
 <p align="left">
   <a href="https://linkedin.com/in/muhammadzaky17" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadzaky17" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/muhammad.zaky.96780" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad.zaky.96780" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/m_zaakkyy" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_zaakkyy" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
-</p>
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <a href="mailto:muhammadzaky00@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zamagi17&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="zamagi17's Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zamagi17&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="zamagi17's Top Languages" />
 </p>
